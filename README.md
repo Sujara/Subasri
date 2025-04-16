@@ -1,4 +1,4 @@
-# subasri - 💻 Personal Portfolio Website ![alt text](image-1.png)
+# Subasri - 💻 Personal Portfolio Website ! 🔥
 
 Welcome to my personal portfolio website! 😍😊 
 This site showcases my work, skills, and experience as a **Programmer Analyst cum Full Stack Developer**.  
